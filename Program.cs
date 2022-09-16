@@ -17,8 +17,8 @@ namespace TugasDasar
             return upahPerjam * jam;   
         }
         //method void
-        static void CetakGajiKaryawan(float totalGaji){
-            Console.WriteLine($"Total gaji yang diterima : {totalGaji}");
+        static void CetakInfo(string message){
+            Console.WriteLine(message);
         }
         static void Main(string[] args)
         {
@@ -44,7 +44,7 @@ namespace TugasDasar
                     Console.Write("Masukan Gaji Perbulan: ");
                     float gaji = float.Parse(Console.ReadLine());
                     float totalGaji = HitungGajiPerbulan(jumlahHariMasuk, gaji);
-                    Console.WriteLine("Total Gaji = "+totalGaji);
+                    CetakInfo($"Total Gaji {totalGaji}");
                     break;
                 case 2:
                     Console.Write("Masukan Total Jam Lmebur: ");
@@ -52,10 +52,10 @@ namespace TugasDasar
                     Console.Write("Masukan Gaji Perbulan: ");
                     float salary = float.Parse(Console.ReadLine());
                     float upah = HitungUpahLembur(jam, salary);
-                    Console.WriteLine("Total Upah Lembur = "+upah);
+                    CetakInfo($"Total Upah Lembur = {upah}");
                     break;
                 default:
-                    Console.WriteLine("Maaf pilihan tidak tersedia");
+                    CetakInfo("Maaf pilihan tidak tersedia");
                     break;
             }
         }
