@@ -1,0 +1,13 @@
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\bin\Debug\netcoreapp3.1\TugasDasar.exe
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\bin\Debug\netcoreapp3.1\TugasDasar.deps.json
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\bin\Debug\netcoreapp3.1\TugasDasar.runtimeconfig.json
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\bin\Debug\netcoreapp3.1\TugasDasar.runtimeconfig.dev.json
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\bin\Debug\netcoreapp3.1\TugasDasar.dll
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\bin\Debug\netcoreapp3.1\TugasDasar.pdb
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\obj\Debug\netcoreapp3.1\TugasDasar.csprojAssemblyReference.cache
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\obj\Debug\netcoreapp3.1\TugasDasar.AssemblyInfoInputs.cache
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\obj\Debug\netcoreapp3.1\TugasDasar.AssemblyInfo.cs
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\obj\Debug\netcoreapp3.1\TugasDasar.csproj.CoreCompileInputs.cache
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\obj\Debug\netcoreapp3.1\TugasDasar.dll
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\obj\Debug\netcoreapp3.1\TugasDasar.pdb
+D:\belajar\C#\pertemuan 6 - fundamental programming, oop, sql connection\TugasDasar\obj\Debug\netcoreapp3.1\TugasDasar.genruntimeconfig.cache
